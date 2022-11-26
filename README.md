@@ -1,3 +1,3 @@
 # Salon-landing-Page
 
-![](images/filename%20NailSalonscreenshot.png)
+<img src="images/Nailsalonscreenshot.png"
