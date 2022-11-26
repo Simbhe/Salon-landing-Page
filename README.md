@@ -1,3 +1,3 @@
 # Salon-landing-Page
 
-![](images/filename Nail Salon screenshot.png)
+![](images/filename%20NailSalonscreenshot.png)
